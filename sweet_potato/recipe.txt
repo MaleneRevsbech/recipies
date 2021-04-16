@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 chop it, oven 200 degrees, lots of oil and salt
 around 30 min :) 
+elsker det
+=======
+chop, oven 200 degrees, eat!
+>>>>>>> new_recipe
